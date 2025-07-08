@@ -9,3 +9,7 @@ commiti push ettikten sonra bir onceki commiti duzeltmek istersem
 
 develop tekrar actim. trapy
 bu text develop branchinda yapilmistir. ama branchin base i daha onceki cimmitlerdir
+  fix bug 1 
+  fix bug da ikinci degisiklilk
+
+  fix bug asil simdi duzeldi
