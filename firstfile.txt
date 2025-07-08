@@ -1,3 +1,5 @@
 ilk metin
 
 master da ikinci comit
+
+bu text develop branchinda yapilmistir. ama branchin base i daha onceki cimmitlerdir
