@@ -13,3 +13,4 @@ bu text develop branchinda yapilmistir. ama branchin base i daha onceki cimmitle
   fix bug da ikinci degisiklilk
 
   fix bug asil simdi duzeldi
+  request etmek istiyorum
