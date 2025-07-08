@@ -2,4 +2,10 @@ ilk metin
 
 master da ikinci comit
 
+bu denemede commit yapildiktan sonra push yapilmadan once nasil degistirilir.
+unuttugum degisiklil
+
+commiti push ettikten sonra bir onceki commiti duzeltmek istersem
+
+develop tekrar actim. trapy
 bu text develop branchinda yapilmistir. ama branchin base i daha onceki cimmitlerdir
